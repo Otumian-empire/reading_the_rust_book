@@ -87,3 +87,5 @@ cargo check
 # output
     Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.01s
 ```
+
+## Guessing game
